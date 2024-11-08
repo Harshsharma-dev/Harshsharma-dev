@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="harshsharma-dev" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 Software Development Engineer - 1
 
-- 📫 How to reach me **harshsharma.getmail@gmail.com**
+- 📫 How to reach me **harshsharma89682@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
